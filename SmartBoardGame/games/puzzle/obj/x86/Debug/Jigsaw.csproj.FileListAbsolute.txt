@@ -1,0 +1,35 @@
+C:\Users\Administrator\Downloads\Jigsaw (1)\bin\Debug\Jigsaw.exe.config
+C:\Users\Administrator\Downloads\Jigsaw (1)\bin\Debug\Jigsaw.exe
+C:\Users\Administrator\Downloads\Jigsaw (1)\bin\Debug\Jigsaw.pdb
+C:\Users\Administrator\Downloads\Jigsaw (1)\obj\x86\Debug\Jigsaw.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\Jigsaw (1)\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Downloads\Jigsaw (1)\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Downloads\Jigsaw (1)\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Downloads\Jigsaw (1)\obj\x86\Debug\Jigsaw_MarkupCompile.cache
+C:\Users\Administrator\Downloads\Jigsaw (1)\obj\x86\Debug\Jigsaw.g.resources
+C:\Users\Administrator\Downloads\Jigsaw (1)\obj\x86\Debug\Jigsaw.Properties.Resources.resources
+C:\Users\Administrator\Downloads\Jigsaw (1)\obj\x86\Debug\Jigsaw.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Jigsaw (1)\obj\x86\Debug\Jigsaw.exe
+C:\Users\Administrator\Downloads\Jigsaw (1)\obj\x86\Debug\Jigsaw.pdb
+D:\SmartBoardGame_p\SmartBoardGame\games\puzzle\obj\x86\Debug\Jigsaw.csprojResolveAssemblyReference.cache
+D:\SmartBoardGame_p\SmartBoardGame\games\puzzle\obj\x86\Debug\MainWindow.baml
+D:\SmartBoardGame_p\SmartBoardGame\games\puzzle\obj\x86\Debug\MainWindow.g.cs
+D:\SmartBoardGame_p\SmartBoardGame\games\puzzle\obj\x86\Debug\App.g.cs
+D:\SmartBoardGame_p\SmartBoardGame\games\puzzle\obj\x86\Debug\Jigsaw.csproj.GenerateResource.Cache
+D:\SmartBoardGame_p\SmartBoardGame\games\puzzle\obj\x86\Debug\Puzzle_MarkupCompile.cache
+D:\SmartBoardGame_p\SmartBoardGame\games\puzzle\obj\x86\Debug\Puzzle.g.resources
+D:\SmartBoardGame_p\SmartBoardGame\games\puzzle\obj\x86\Debug\Puzzle.Properties.Resources.resources
+C:\SmartBoardGame\bin\Debug\bin\Puzzle.exe.config
+C:\SmartBoardGame\bin\Debug\bin\Puzzle.exe
+C:\SmartBoardGame\bin\Debug\bin\Puzzle.pdb
+D:\SmartBoardGame_p\SmartBoardGame\games\puzzle\obj\x86\Debug\Puzzle.exe
+D:\SmartBoardGame_p\SmartBoardGame\games\puzzle\obj\x86\Debug\Puzzle.pdb
+D:\SmartBoardGame\bin\Debug\bin\Puzzle.exe.config
+D:\SmartBoardGame\bin\Debug\bin\Puzzle.exe
+D:\SmartBoardGame\bin\Debug\bin\Puzzle.pdb
+D:\SmartBoardGame_p\SmartBoardGame\bin\Debug\bin\Puzzle.exe.config
+D:\SmartBoardGame_p\SmartBoardGame\bin\Debug\bin\Puzzle.exe
+D:\SmartBoardGame_p\SmartBoardGame\bin\Debug\bin\Puzzle.pdb
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Puzzle.exe.config
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Puzzle.exe
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Puzzle.pdb

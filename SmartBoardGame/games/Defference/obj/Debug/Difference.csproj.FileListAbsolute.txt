@@ -1,0 +1,14 @@
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\first.png
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\fourth.png
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\second.png
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\third.png
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\fifth.png
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Difference.exe.config
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Difference.exe
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Difference.pdb
+D:\SmartBoardGame_p\SmartBoardGame\games\Defference\obj\Debug\Difference.csprojResolveAssemblyReference.cache
+D:\SmartBoardGame_p\SmartBoardGame\games\Defference\obj\Debug\Defference.Form1.resources
+D:\SmartBoardGame_p\SmartBoardGame\games\Defference\obj\Debug\Difference.Properties.Resources.resources
+D:\SmartBoardGame_p\SmartBoardGame\games\Defference\obj\Debug\Difference.csproj.GenerateResource.Cache
+D:\SmartBoardGame_p\SmartBoardGame\games\Defference\obj\Debug\Difference.exe
+D:\SmartBoardGame_p\SmartBoardGame\games\Defference\obj\Debug\Difference.pdb

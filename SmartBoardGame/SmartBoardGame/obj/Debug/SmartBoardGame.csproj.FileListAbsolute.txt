@@ -1,0 +1,8 @@
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\SmartBoardGame.exe.config
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\SmartBoardGame.exe
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\SmartBoardGame.pdb
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\obj\Debug\SmartBoardGame.Form1.resources
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\obj\Debug\SmartBoardGame.Properties.Resources.resources
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\obj\Debug\SmartBoardGame.csproj.GenerateResource.Cache
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\obj\Debug\SmartBoardGame.exe
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\obj\Debug\SmartBoardGame.pdb

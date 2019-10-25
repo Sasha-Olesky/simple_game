@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{f2740073-001e-41d9-9273-fd0ce1924a0b}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{de679cae-2c81-4646-ad55-863d270f88e3}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{22f313c1-7a9e-45a8-9228-20166a1b733d}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="InstructDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sundar_Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sundar_GameDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Sundar_Game.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="InstructDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sundar_Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sundar_GameDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\11.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\12.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\13.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\14.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\15.BMP">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\8.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\9.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\ac0036-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\afghan.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\alien.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\ansley.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\app.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\app.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\aqua-blue-panther.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\argentina.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\BackGround.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\belgium.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\benin.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\blue_background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\bulgaria.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\cam_48.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\cat.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\cconlinehelp.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\cconlinehelp.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\chad.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\chile.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\china.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\clock1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\clock1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\clock2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\clock2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\clock3.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\clock3.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\columbia.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\costarica.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\couple.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\couple2.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\cowboy.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\cowboy2.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\denmark.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\djibouti.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\dominicanrepublic.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\earth.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\earth.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\easttimor.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\ei0021-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\emicon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\emicon4.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\emicon6.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Flag\estonia.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\face.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\face2.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\favicon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\favicon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\funnyman.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\godess.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\headphones.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\high score.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\IEXPLORE.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\info.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\info.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\JavaCup.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\JavaCup.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Face\man - 16.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man10.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man11.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man12.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man13.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man14.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man2.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man3.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man4.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man5.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man6.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man7.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man8.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Fav\man9.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\MSDTX.ICO">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\msnms.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\msnms.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\ndpsetup.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\ndpsetup.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\rational.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\rational.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\roundtarget.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\roundtarget.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\General\stgui.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\stgui.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Sundar_Game.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\wi0009-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\wi0054-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\wi0062-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\wi0063-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\wi0064-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\wi0096-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\wi0111-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\wi0122-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\wi0124-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\XP\wi0126-64.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\cursor1.cur">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="res\Sundar_Game.rc2">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+</Project>

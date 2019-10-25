@@ -1,0 +1,45 @@
+D:\All Stuff\C# Class\HangmanD-7\HangmanD-7\obj\Debug\HangmanD_7.Hangman.resources
+D:\All Stuff\C# Class\HangmanD-7\HangmanD-7\obj\Debug\HangmanD_7.Properties.Resources.resources
+D:\All Stuff\C# Class\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.csproj.GenerateResource.Cache
+D:\All Stuff\C# Class\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.exe.config
+D:\All Stuff\C# Class\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.exe
+D:\All Stuff\C# Class\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.pdb
+D:\All Stuff\C# Class\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.exe
+D:\All Stuff\C# Class\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.pdb
+D:\All Stuff\C# Class\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\HangmanD-7\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.exe.config
+C:\Users\Administrator\Downloads\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.exe
+C:\Users\Administrator\Downloads\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.pdb
+C:\Users\Administrator\Downloads\HangmanD-7\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.exe
+C:\Users\Administrator\Downloads\HangmanD-7\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.pdb
+C:\Users\Administrator\Downloads\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD_7.Hangman.resources
+C:\Users\Administrator\Downloads\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD_7.Properties.Resources.resources
+C:\Users\Administrator\Downloads\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.csproj.GenerateResource.Cache
+D:\SmartBoardGame_p\project\HangmanD-7\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.exe.config
+D:\SmartBoardGame_p\project\HangmanD-7\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.exe
+D:\SmartBoardGame_p\project\HangmanD-7\HangmanD-7\HangmanD-7\bin\Debug\HangmanD-7.pdb
+D:\SmartBoardGame_p\project\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.csprojResolveAssemblyReference.cache
+D:\SmartBoardGame_p\project\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD_7.Hangman.resources
+D:\SmartBoardGame_p\project\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD_7.Properties.Resources.resources
+D:\SmartBoardGame_p\project\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.csproj.GenerateResource.Cache
+D:\SmartBoardGame_p\project\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.exe
+D:\SmartBoardGame_p\project\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.pdb
+D:\SmartBoardGame_p\SmartBoardGame\games\HangmanD-7\SmartBoardGame\bin\Debug\bin\Hangman.exe.config
+D:\SmartBoardGame_p\SmartBoardGame\games\HangmanD-7\SmartBoardGame\bin\Debug\bin\Hangman.exe
+D:\SmartBoardGame_p\SmartBoardGame\games\HangmanD-7\SmartBoardGame\bin\Debug\bin\Hangman.pdb
+D:\SmartBoardGame_p\SmartBoardGame\games\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.csprojResolveAssemblyReference.cache
+D:\SmartBoardGame_p\SmartBoardGame\games\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD_7.Hangman.resources
+D:\SmartBoardGame_p\SmartBoardGame\games\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\HangmanD-7.csproj.GenerateResource.Cache
+D:\SmartBoardGame_p\SmartBoardGame\games\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\Hangman.exe
+D:\SmartBoardGame_p\SmartBoardGame\games\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\Hangman.pdb
+C:\SmartBoardGame\bin\Debug\bin\Hangman.exe.config
+C:\SmartBoardGame\bin\Debug\bin\Hangman.exe
+C:\SmartBoardGame\bin\Debug\bin\Hangman.pdb
+D:\SmartBoardGame_p\SmartBoardGame\games\SmartBoardGame\bin\Debug\bin\Hangman.exe.config
+D:\SmartBoardGame_p\SmartBoardGame\games\SmartBoardGame\bin\Debug\bin\Hangman.exe
+D:\SmartBoardGame_p\SmartBoardGame\games\SmartBoardGame\bin\Debug\bin\Hangman.pdb
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Hangman.exe.config
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Hangman.exe
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Hangman.pdb
+D:\SmartBoardGame_p\SmartBoardGame\games\HangmanD-7\HangmanD-7\HangmanD-7\obj\Debug\Hangman.Properties.Resources.resources

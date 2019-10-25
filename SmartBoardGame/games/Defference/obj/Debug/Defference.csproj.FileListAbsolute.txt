@@ -1,0 +1,5 @@
+D:\SmartBoardGame\bin\Debug\bin\Defference.exe.config
+D:\SmartBoardGame\bin\Debug\bin\Defference.exe
+D:\SmartBoardGame\bin\Debug\bin\Defference.pdb
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Difference.exe
+D:\SmartBoardGame_p\SmartBoardGame\SmartBoardGame\bin\Debug\bin\Difference.pdb

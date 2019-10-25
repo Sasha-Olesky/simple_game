@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <SccProjectName />
+    <SccLocalPath />
+    <Keyword>MFCProj</Keyword>
+    <ProjectGuid>{DA5B9603-EFE0-4411-8478-66F199E713D9}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v120</PlatformToolset>
+    <UseOfMfc>Dynamic</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+    <Import Project="$(VCTargetsPath)Microsoft.Cpp.UpgradeFromVC60.props" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>\SmartBoardGame\bin\Debug\bin</OutDir>
+    <IntDir>debug\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>.\Release\</OutDir>
+    <IntDir>.\Release\</IntDir>
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <Optimization>Disabled</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <MinimalRebuild>true</MinimalRebuild>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\Debug\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\Debug\Sundar_Game.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\Debug\</ObjectFileName>
+      <ProgramDataBaseFileName>.\Debug\</ProgramDataBaseFileName>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\Debug\Sundar_Game.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0409</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Debug\Sundar_Game.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>.\SmartBoardGame\bin\Debug\bin</OutputFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <InlineFunctionExpansion>Default</InlineFunctionExpansion>
+      <StringPooling>true</StringPooling>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <Optimization>MaxSpeed</Optimization>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AssemblerListingLocation>.\Release\</AssemblerListingLocation>
+      <BrowseInformation>true</BrowseInformation>
+      <PrecompiledHeaderOutputFile>.\Release\Sundar_Game.pch</PrecompiledHeaderOutputFile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>stdafx.h</PrecompiledHeaderFile>
+      <ObjectFileName>.\Release\</ObjectFileName>
+      <ProgramDataBaseFileName>.\Release\</ProgramDataBaseFileName>
+    </ClCompile>
+    <Midl>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <TypeLibraryName>.\Release\Sundar_Game.tlb</TypeLibraryName>
+      <MkTypLibCompatible>true</MkTypLibCompatible>
+      <TargetEnvironment>Win32</TargetEnvironment>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0409</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ResourceCompile>
+    <Bscmake>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <OutputFile>.\Release\Sundar_Game.bsc</OutputFile>
+    </Bscmake>
+    <Link>
+      <SuppressStartupBanner>true</SuppressStartupBanner>
+      <SubSystem>Windows</SubSystem>
+      <OutputFile>.\Release\Sundar_Game.exe</OutputFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="InstructDlg.cpp" />
+    <ClCompile Include="ScoreDlg.cpp" />
+    <ClCompile Include="StdAfx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="Sundar_Game.cpp" />
+    <ClCompile Include="Sundar_GameDlg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Sundar_Game.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="InstructDlg.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="ScoreDlg.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="Sundar_Game.h" />
+    <ClInclude Include="Sundar_GameDlg.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\1.bmp" />
+    <Image Include="res\10.bmp" />
+    <Image Include="res\11.BMP" />
+    <Image Include="res\12.BMP" />
+    <Image Include="res\13.BMP" />
+    <Image Include="res\14.BMP" />
+    <Image Include="res\15.BMP" />
+    <Image Include="res\2.bmp" />
+    <Image Include="res\3.bmp" />
+    <Image Include="res\4.bmp" />
+    <Image Include="res\5.bmp" />
+    <Image Include="res\6.bmp" />
+    <Image Include="res\7.bmp" />
+    <Image Include="res\8.bmp" />
+    <Image Include="res\9.bmp" />
+    <Image Include="res\app.ico" />
+    <Image Include="res\aqua-blue-panther.bmp" />
+    <Image Include="res\BackGround.bmp" />
+    <Image Include="res\bitmap2.bmp" />
+    <Image Include="res\bitmap4.bmp" />
+    <Image Include="res\blue_background.bmp" />
+    <Image Include="res\cconlinehelp.ico" />
+    <Image Include="res\clock1.ico" />
+    <Image Include="res\clock2.ico" />
+    <Image Include="res\clock3.ico" />
+    <Image Include="res\earth.ico" />
+    <Image Include="res\Face\alien.ico" />
+    <Image Include="res\Face\ansley.ico" />
+    <Image Include="res\Face\cat.ICO" />
+    <Image Include="res\Face\couple.ICO" />
+    <Image Include="res\Face\cowboy.ico" />
+    <Image Include="res\Face\cowboy2.ico" />
+    <Image Include="res\Face\emicon.ico" />
+    <Image Include="res\Face\emicon4.ico" />
+    <Image Include="res\Face\emicon6.ico" />
+    <Image Include="res\Face\face.ICO" />
+    <Image Include="res\Face\face2.ICO" />
+    <Image Include="res\Face\funnyman.ICO" />
+    <Image Include="res\Face\godess.ICO" />
+    <Image Include="res\Face\headphones.ICO" />
+    <Image Include="res\Face\man - 16.ico" />
+    <Image Include="res\favicon.ico" />
+    <Image Include="res\Fav\couple2.ICO" />
+    <Image Include="res\Fav\man.ICO" />
+    <Image Include="res\Fav\man10.ICO" />
+    <Image Include="res\Fav\man11.ICO" />
+    <Image Include="res\Fav\man12.ICO" />
+    <Image Include="res\Fav\man13.ICO" />
+    <Image Include="res\Fav\man14.ICO" />
+    <Image Include="res\Fav\man2.ICO" />
+    <Image Include="res\Fav\man3.ICO" />
+    <Image Include="res\Fav\man4.ICO" />
+    <Image Include="res\Fav\man5.ICO" />
+    <Image Include="res\Fav\man6.ICO" />
+    <Image Include="res\Fav\man7.ICO" />
+    <Image Include="res\Fav\man8.ICO" />
+    <Image Include="res\Fav\man9.ICO" />
+    <Image Include="res\Flag\afghan.ico" />
+    <Image Include="res\Flag\argentina.ico" />
+    <Image Include="res\Flag\belgium.ico" />
+    <Image Include="res\Flag\benin.ico" />
+    <Image Include="res\Flag\bulgaria.ico" />
+    <Image Include="res\Flag\chad.ico" />
+    <Image Include="res\Flag\chile.ico" />
+    <Image Include="res\Flag\china.ico" />
+    <Image Include="res\Flag\columbia.ico" />
+    <Image Include="res\Flag\costarica.ico" />
+    <Image Include="res\Flag\denmark.ico" />
+    <Image Include="res\Flag\djibouti.ico" />
+    <Image Include="res\Flag\dominicanrepublic.ico" />
+    <Image Include="res\Flag\easttimor.ico" />
+    <Image Include="res\Flag\estonia.ico" />
+    <Image Include="res\General\app.ico" />
+    <Image Include="res\General\cconlinehelp.ico" />
+    <Image Include="res\General\clock1.ico" />
+    <Image Include="res\General\clock2.ico" />
+    <Image Include="res\General\clock3.ico" />
+    <Image Include="res\General\earth.ico" />
+    <Image Include="res\General\favicon.ico" />
+    <Image Include="res\General\icon1.ico" />
+    <Image Include="res\General\info.ico" />
+    <Image Include="res\General\JavaCup.ico" />
+    <Image Include="res\General\msnms.ico" />
+    <Image Include="res\General\ndpsetup.ico" />
+    <Image Include="res\General\rational.ico" />
+    <Image Include="res\General\roundtarget.ico" />
+    <Image Include="res\General\stgui.ico" />
+    <Image Include="res\high score.bmp" />
+    <Image Include="res\icon1.ico" />
+    <Image Include="res\info.ico" />
+    <Image Include="res\JavaCup.ico" />
+    <Image Include="res\msnms.ico" />
+    <Image Include="res\ndpsetup.ico" />
+    <Image Include="res\rational.ico" />
+    <Image Include="res\roundtarget.ico" />
+    <Image Include="res\stgui.ico" />
+    <Image Include="res\Sundar_Game.ico" />
+    <Image Include="res\XP\ac0036-64.ico" />
+    <Image Include="res\XP\cam_48.ico" />
+    <Image Include="res\XP\ei0021-64.ico" />
+    <Image Include="res\XP\IEXPLORE.ICO" />
+    <Image Include="res\XP\MSDTX.ICO" />
+    <Image Include="res\XP\wi0009-64.ico" />
+    <Image Include="res\XP\wi0054-64.ico" />
+    <Image Include="res\XP\wi0062-64.ico" />
+    <Image Include="res\XP\wi0063-64.ico" />
+    <Image Include="res\XP\wi0064-64.ico" />
+    <Image Include="res\XP\wi0096-64.ico" />
+    <Image Include="res\XP\wi0111-64.ico" />
+    <Image Include="res\XP\wi0122-64.ico" />
+    <Image Include="res\XP\wi0124-64.ico" />
+    <Image Include="res\XP\wi0126-64.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\cursor1.cur" />
+    <CustomBuild Include="res\Sundar_Game.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
